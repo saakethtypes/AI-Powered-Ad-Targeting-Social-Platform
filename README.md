@@ -19,7 +19,7 @@
 Documentation - https://codelabs-preview.appspot.com/?file_id=18qScGcxVTydmxhaIO8eRmhzS3TcmaczcPK5606xLQdM#0
 
 ## Flow
-User Action -> Liked post of the woman sittin on the beach
+User Action -> Liked post of the woman sitting on the beach
 ![s](https://github.com/saakethtypes/AI-Powered-Ad-Targeting-Social-Platform/assets/47172497/98bc727a-7545-4eb3-9b3c-5ca240a29d3b)
 
 Image processing -> Fetched relavant Ads
